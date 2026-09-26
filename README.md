@@ -42,12 +42,14 @@ Where:
 
 ---
 ## CALCULATION
-<img width="1391" height="1579" alt="WhatsApp Image 2026-09-23 at 4 06 27 PM" src="https://github.com/user-attachments/assets/4e34c001-cf59-4bd0-93d4-febd78324971" />
+<img width="1280" height="960" alt="WhatsApp Image 2026-09-26 at 10 08 15 AM" src="https://github.com/user-attachments/assets/7b4f44bf-65e9-489e-b2e6-b9c4a33dc451" />
+
 
 ## OUTPUT
 <img width="1483" height="896" alt="WhatsApp Image 2026-09-23 at 12 48 11 PM" src="https://github.com/user-attachments/assets/29789cc4-c6ba-4273-84e5-dbed2df1815a" />
 ## TABULATION
-<img width="1600" height="910" alt="WhatsApp Image 2026-09-23 at 12 48 10 PM (1)" src="https://github.com/user-attachments/assets/7106644f-d7e5-4f3a-8d75-f224ed28fd14" />
+<img width="1280" height="866" alt="WhatsApp Image 2026-09-26 at 9 52 20 AM" src="https://github.com/user-attachments/assets/0781c658-66ae-4cd9-b480-67ea282b7433" />
+
 Result
 
 The message signal, carrier signal, and phase-modulated (PM) signal will be displayed in separate plots. The modulated signal will show phase variations corresponding to the amplitude of the message signal.
