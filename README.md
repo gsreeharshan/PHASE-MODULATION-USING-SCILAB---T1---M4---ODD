@@ -51,5 +51,6 @@ Where:
 <img width="1280" height="866" alt="WhatsApp Image 2026-09-26 at 9 52 20 AM" src="https://github.com/user-attachments/assets/0781c658-66ae-4cd9-b480-67ea282b7433" />
 
 Result
+<img width="1280" height="497" alt="WhatsApp Image 2026-09-26 at 11 58 17 AM" src="https://github.com/user-attachments/assets/7d530083-cc78-4abd-947a-5b06ec41cc3c" />
 
 The message signal, carrier signal, and phase-modulated (PM) signal will be displayed in separate plots. The modulated signal will show phase variations corresponding to the amplitude of the message signal.
